@@ -14,3 +14,29 @@ This is a simple To-Do list application built using ReactJS and Chakra UI.
 
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd todo-list-app
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+
+Running the Application
+Once the dependencies are installed, you can run the application using the following command:
+
+      ```bash
+      npm start
+
+This will start the development server and open the application in your default web browser. If it doesn't open automatically, you can access the application at http://localhost:3000.
+
+Usage
+Add tasks to your To-Do list by entering them in the input field and clicking the Add button.
+Mark tasks as completed by clicking on the edit icon.
+Delete tasks by clicking on the delete icon next to each task.
+Technologies Used
+ReactJS
+Chakra UI
