@@ -33,9 +33,9 @@ Once the dependencies are installed, you can run the application using the follo
 This will start the development server and open the application in your default web browser. If it doesn't open automatically, you can access the application at http://localhost:3000.
 
 Usage
-Add tasks to your To-Do list by entering them in the input field and clicking the Add button.
-Mark tasks as completed by clicking on the edit icon.
-Delete tasks by clicking on the delete icon next to each task.
-Technologies Used
+   1.Add tasks to your To-Do list by entering them in the input field and clicking the Add button.
+   2.Mark tasks as completed by clicking on the edit icon.
+   3.Delete tasks by clicking on the delete icon next to each task.
+Technologies Used:-
 ReactJS
 Chakra UI
