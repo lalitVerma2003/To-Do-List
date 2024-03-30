@@ -28,8 +28,7 @@ This is a simple To-Do list application built using ReactJS and Chakra UI.
 Running the Application
 Once the dependencies are installed, you can run the application using the following command:
 
-      ```bash
-      npm start
+       npm start
 
 This will start the development server and open the application in your default web browser. If it doesn't open automatically, you can access the application at http://localhost:3000.
 
